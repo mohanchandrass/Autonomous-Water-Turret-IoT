@@ -7,7 +7,7 @@ Welcome to the Autonomous Water Turret IoT project! This repository contains the
 ## Demos
 
 ### YOLOv5 Fire Detection Demo
-![YOLOv5 Fire Detection](demo/tracking.png)  
+![YOLOv5 Fire Detection](demo/model_test.png)  
 *Real-time fire detection using a custom-trained YOLOv5s model.*
 
 ### Object Tracking Demo
