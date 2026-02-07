@@ -142,8 +142,8 @@ Contributing
 
 Authors
 -------
-Mohan Chandra S S
-Neeraj P Rao
+- Mohan Chandra S S
+- Neeraj P Rao
 
 License
 -------
