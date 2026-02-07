@@ -139,6 +139,12 @@ Contributing
 4. Push to branch: `git push origin feature/AmazingFeature`
 5. Open a Pull Request
 
+
+Authors
+-------
+Mohan Chandra S S
+Neeraj P Rao
+
 License
 -------
 MIT License (or specify yours)
